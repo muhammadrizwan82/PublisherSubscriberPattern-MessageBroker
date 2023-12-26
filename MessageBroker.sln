@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker", "MessageBroker.csproj", "{D97EFD68-5A9B-49C1-A938-3C78579CCB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97EFD68-5A9B-49C1-A938-3C78579CCB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97EFD68-5A9B-49C1-A938-3C78579CCB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97EFD68-5A9B-49C1-A938-3C78579CCB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97EFD68-5A9B-49C1-A938-3C78579CCB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2EC2206-6F5A-4718-A3E1-8FB3ECB3674E}
+	EndGlobalSection
+EndGlobal
